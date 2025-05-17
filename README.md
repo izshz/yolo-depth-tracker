@@ -9,6 +9,7 @@ RealsenseデプスカメラとYOLOv11nを用いて、前走車の検出と距離
 - `samples/image.png`: 実際のカメラ画像
 
 ## 使用技術
+- C++ (プログラミング言語)
 - OpenCV (ライブラリ)
 - Intel RealSense SDK (ライブラリ)
 - Visual Studio (統合開発環境)
